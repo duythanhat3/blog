@@ -1,0 +1,33 @@
+{ 
+    "code" : "NK25", 
+    "createdTime" : ISODate("2018-05-18T03:01:26.000+0000"), 
+    "description" : "Thử nghiệm kho số 5 QC",
+    "isDisabled" : false, 
+    "isReceiving" : true, 
+    "name" : "Nhà khách 25", 
+    "ordering" : "20", 
+    "shortName" : "Nhà khách 25", 
+    "warehouseId" : ObjectId("53995ff3f9130714d5b9c11f")
+},
+{ 
+    "code" : "NK181", 
+    "createdTime" : ISODate("2018-05-18T03:01:26.000+0000"), 
+    "description" : "Thử nghiệm kho số 5 QC",
+    "isDisabled" : false, 
+    "isReceiving" : true, 
+    "name" : "Nhà khách 181", 
+    "ordering" : "20", 
+    "shortName" : "Nhà khách 181", 
+    "warehouseId" : ObjectId("53995ff3f9130714d5b9c11f")
+},
+{ 
+    "code" : "NKS5", 
+    "createdTime" : ISODate("2018-05-18T03:01:26.000+0000"), 
+    "description" : "Thử nghiệm kho số 5 QC",
+    "isDisabled" : false, 
+    "isReceiving" : true, 
+    "name" : "Nhà khách số 5", 
+    "ordering" : "20", 
+    "shortName" : "Nhà khách số 5", 
+    "warehouseId" : ObjectId("53995ff3f9130714d5b9c11f")
+}

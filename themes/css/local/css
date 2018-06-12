@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  src: url(local/NGS6v5_NC0k9P9H2TbU.eot);
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(local/KFOmCnqEu92Fr1Mu4mxO.eot);
+}
